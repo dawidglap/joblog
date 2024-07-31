@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+```markdown
+# Job Application Tracker
 
-## Getting Started
+**Organize, Apply, Succeed: The Essential Job Application Tracker**
 
-First, run the development server:
+Welcome to the Job Application Tracker, an intuitive web app designed to streamline your job search process. With this tool, you can effortlessly manage and track all your job applications in one place, helping you stay organized and focused on landing your dream job.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Features
+
+- **Centralized Dashboard**: View all your job applications in one place.
+- **Application Tracking**: Monitor the status of each application, from submission to interview and beyond.
+- **Notes and Reminders**: Add notes and set reminders for each job application.
+- **Intuitive Design**: User-friendly interface for a seamless experience.
+
+## Installation
+
+To get started with the Job Application Tracker, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/job-application-tracker.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd job-application-tracker
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+   Open [http://localhost:3000](http://localhost:3000) in your browser to see the app in action.
+
+## Usage
+
+1. **Add a New Application**: Click on the "Add Application" button and fill in the details of the job you are applying for.
+2. **Track Progress**: Update the status of your application as you move through the hiring process.
+3. **Organize Your Notes**: Keep track of important details and reminders for each job.
+4. **Stay Updated**: Get notifications and reminders about upcoming interviews or follow-ups.
+
+## Contributing
+
+We welcome contributions to the Job Application Tracker! Here's how you can help:
+
+1. **Fork the repository**.
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Make your changes**.
+4. **Commit your changes** (`git commit -m 'Add some feature'`).
+5. **Push to the branch** (`git push origin feature-branch`).
+6. **Open a pull request**.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to [hello@joblog.ch].
+
+---
+
+Thank you for using the Job Application Tracker! We hope it helps you stay organized and succeed in your job search.
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
