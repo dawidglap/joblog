@@ -18,12 +18,12 @@ To get started with the Job Application Tracker, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/job-application-tracker.git
+   git clone https://github.com/dawidglap/joblog.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd job-application-tracker
+   cd joblog
    ```
 
 3. **Install dependencies**:
